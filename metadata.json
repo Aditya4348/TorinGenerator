@@ -1,0 +1,5 @@
+{
+  "name": "Surat Karang Taruna Generator",
+  "description": "A frontend-only web application to generate official letters for Karang Taruna organizations. All data is processed and stored locally in the user's browser.",
+  "requestFramePermissions": []
+}
